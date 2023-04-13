@@ -1,0 +1,26 @@
+body{
+
+  background-color: #393E46;
+}
+.container{
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+
+
+
+h1{
+  font-family: 'Lobster',cursive;
+  font-size: 8rem;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+}
+
+
+.row{
+  display: inline-block;
+  margin-left:  5%;
+
+  color: #4ECCA3;
+}
